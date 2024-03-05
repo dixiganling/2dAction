@@ -1,0 +1,15 @@
+[
+    {"id":0,"WaveNum":1,"monsters":{"Cha/Monster/Ghost":[0],"Cha/Monster/GhostHalo":[0],"Cha/Monster/Creeper":[0],"Cha/Monster/Wizard":[0],"Cha/Monster/Angle":[1]}},
+    {"id":1,"WaveNum":1,"monsters":{"Cha/Monster/Ghost":[4]}},
+    {"id":2,"WaveNum":1,"monsters":{"Cha/Monster/Ghost":[2],"Cha/Monster/GhostHalo":[1]}},
+    {"id":3,"WaveNum":1,"monsters":{"Cha/Monster/Ghost":[1],"Cha/Monster/Wizard":[3]}},
+    {"id":4,"WaveNum":2,"monsters":{"Cha/Monster/Ghost":[1,2],"Cha/Monster/Wizard":[1,1]}},
+    {"id":5,"WaveNum":2,"monsters":{"Cha/Monster/Ghost":[2,2],"Cha/Monster/GhostHalo":[1,1],"Cha/Monster/Creeper":[1,1]}},
+    {"id":6,"WaveNum":3,"monsters":{"Cha/Monster/Ghost":[2,2,2],"Cha/Monster/Creeper":[1,1,1]}},
+    {"id":7,"WaveNum":1,"monsters":{"Cha/Monster/GhostHalo":[2],"Cha/Monster/Wizard":[1],"Cha/Monster/Creeper":[2]}},
+    {"id":8,"WaveNum":2,"monsters":{"Cha/Monster/Ghost":[1,2],"Cha/Monster/GhostHalo":[2,1],"Cha/Monster/Creeper":[0,1]}},
+    {"id":9,"WaveNum":1,"monsters":{"Cha/Monster/Ghost":[3],"Cha/Monster/Wizard":[2],"Cha/Monster/Angle":[1]}},
+    {"id":10,"WaveNum":1,"monsters":{"Cha/Monster/Ghost":[1],"Cha/Monster/GhostHalo":[1],"Cha/Monster/Wizard":[1],"Cha/Monster/Creeper":[1],"Cha/Monster/Angle":[2]}},
+    {"id":11,"WaveNum":3,"monsters":{"Cha/Monster/GhostHalo":[1,1,1],"Cha/Monster/Wizard":[1,2,0],"Cha/Monster/Creeper":[1,1,3],"Cha/Monster/Angle":[1,1,1]}},
+    {"id":12,"WaveNum":1,"monsters":{"Cha/Monster/Ghost":[1],"Cha/Monster/Wizard":[1],"Cha/Monster/Creeper":[1],"Cha/Monster/Angle":[2]}}
+]

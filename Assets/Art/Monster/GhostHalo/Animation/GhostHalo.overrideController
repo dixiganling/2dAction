@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: GhostHalo
+  m_Controller: {fileID: 9100000, guid: beef06c48873c024fb2c1b6844291574, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 3ef4f54ae1d86b947a9d300b2e81fe8e, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 3ef4f54ae1d86b947a9d300b2e81fe8e, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: d24617ff5850e1343b315cc322000cb1, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 052a19c3232d30043a4f8c58e573f3c5, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: eb29102e3c0f87e4284807c883e27e6d, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 5710a2a8b37be754198e86efcfa3950b, type: 2}

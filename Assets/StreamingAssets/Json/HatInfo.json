@@ -1,0 +1,29 @@
+[
+    {
+        "id": 1,
+        "img":2,
+        "tips": "最大生命+10",
+        "singleValue": 10,
+        "nowLevel": 0,
+        "maxLevel": 5,
+        "soul": [50,100,150,200,250] 
+    },
+    {
+        "id": 2,
+        "img":1,
+        "tips": "最大精力+10",
+        "singleValue": 10,
+        "nowLevel": 0,
+        "maxLevel": 5,
+        "soul": [50,100,150,200,250] 
+    },
+    {
+        "id": 3,
+        "img":11,
+        "tips": "精力恢复速度+2",
+        "singleValue": 2,
+        "nowLevel": 0,
+        "maxLevel": 5,
+        "soul": [100,200,300,400,500] 
+    }
+]
